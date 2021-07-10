@@ -1,5 +1,5 @@
 
-# Tserasp
+# Flutter UI for sign in and sign up
 
 * welcome page
 * sign in page
